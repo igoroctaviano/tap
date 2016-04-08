@@ -1,0 +1,18 @@
+c:\users\501119\documents\visual studio 2013\Projects\KnightsTour\KnightsTour\bin\Debug\KnightsTour.exe.config
+c:\users\501119\documents\visual studio 2013\Projects\KnightsTour\KnightsTour\obj\Debug\KnightsTour.csprojResolveAssemblyReference.cache
+c:\users\501119\documents\visual studio 2013\Projects\KnightsTour\KnightsTour\bin\Debug\KnightsTour.exe
+c:\users\501119\documents\visual studio 2013\Projects\KnightsTour\KnightsTour\bin\Debug\KnightsTour.pdb
+c:\users\501119\documents\visual studio 2013\Projects\KnightsTour\KnightsTour\obj\Debug\KnightsTour.exe
+c:\users\501119\documents\visual studio 2013\Projects\KnightsTour\KnightsTour\obj\Debug\KnightsTour.pdb
+C:\Users\Igor Octaviano\Desktop\KnightsTour\KnightsTour\bin\Debug\KnightsTour.exe.config
+C:\Users\Igor Octaviano\Desktop\KnightsTour\KnightsTour\obj\Debug\KnightsTour.exe
+C:\Users\Igor Octaviano\Desktop\KnightsTour\KnightsTour\obj\Debug\KnightsTour.pdb
+C:\Users\Igor Octaviano\Desktop\KnightsTour\KnightsTour\bin\Debug\KnightsTour.exe
+C:\Users\Igor Octaviano\Desktop\KnightsTour\KnightsTour\bin\Debug\KnightsTour.pdb
+C:\Users\Igor Octaviano\Desktop\KnightsTour\KnightsTour\obj\Debug\KnightsTour.csprojResolveAssemblyReference.cache
+C:\Users\Igor Octaviano\Desktop\501119-Codigos\KnightsTour\KnightsTour\bin\Debug\KnightsTour.exe.config
+C:\Users\Igor Octaviano\Desktop\501119-Codigos\KnightsTour\KnightsTour\obj\Debug\KnightsTour.exe
+C:\Users\Igor Octaviano\Desktop\501119-Codigos\KnightsTour\KnightsTour\obj\Debug\KnightsTour.pdb
+C:\Users\Igor Octaviano\Desktop\501119-Codigos\KnightsTour\KnightsTour\bin\Debug\KnightsTour.exe
+C:\Users\Igor Octaviano\Desktop\501119-Codigos\KnightsTour\KnightsTour\bin\Debug\KnightsTour.pdb
+C:\Users\Igor Octaviano\Desktop\501119-Codigos\KnightsTour\KnightsTour\obj\Debug\KnightsTour.csprojResolveAssemblyReference.cache
