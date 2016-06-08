@@ -1,0 +1,13 @@
+c:\users\igoro\documents\visual studio 2015\Projects\501119-6\501119-6\bin\Debug\501119-6.exe.config
+c:\users\igoro\documents\visual studio 2015\Projects\501119-6\501119-6\obj\Debug\501119-6.csprojResolveAssemblyReference.cache
+c:\users\igoro\documents\visual studio 2015\Projects\501119-6\501119-6\bin\Debug\501119-6.exe
+c:\users\igoro\documents\visual studio 2015\Projects\501119-6\501119-6\bin\Debug\501119-6.pdb
+c:\users\igoro\documents\visual studio 2015\Projects\501119-6\501119-6\obj\Debug\501119-6.exe
+c:\users\igoro\documents\visual studio 2015\Projects\501119-6\501119-6\obj\Debug\501119-6.pdb
+C:\Users\Igor Octaviano\Downloads\501119-6\501119-6\501119-6\bin\Debug\501119-6.exe.config
+C:\Users\Igor Octaviano\Downloads\501119-6\501119-6\501119-6\obj\Debug\501119-6.exe
+C:\Users\Igor Octaviano\Downloads\501119-6\501119-6\501119-6\obj\Debug\501119-6.pdb
+D:\I.O.R.R-Faculdade\5-Semestry\TÉCNICAS AVANÇADAS DE PROGRAMAÇÃO - 3082.1.00 (Teórica)\Listas\501119-6\501119-6\bin\Debug\501119-6.exe.config
+D:\I.O.R.R-Faculdade\5-Semestry\TÉCNICAS AVANÇADAS DE PROGRAMAÇÃO - 3082.1.00 (Teórica)\Listas\501119-6\501119-6\obj\Debug\501119-6.exe
+D:\I.O.R.R-Faculdade\5-Semestry\TÉCNICAS AVANÇADAS DE PROGRAMAÇÃO - 3082.1.00 (Teórica)\Listas\501119-6\501119-6\obj\Debug\501119-6.pdb
+D:\I.O.R.R-Faculdade\5-Semestry\TÉCNICAS AVANÇADAS DE PROGRAMAÇÃO - 3082.1.00 (Teórica)\Listas\501119-6\501119-6\obj\Debug\501119-6.csprojResolveAssemblyReference.cache

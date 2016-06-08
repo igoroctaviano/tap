@@ -1,0 +1,12 @@
+C:\Users\Igor Octaviano\Desktop\501119-5\501119-5\bin\Debug\501119-5.exe.config
+C:\Users\Igor Octaviano\Desktop\501119-5\501119-5\bin\Debug\501119-5.exe
+C:\Users\Igor Octaviano\Desktop\501119-5\501119-5\bin\Debug\501119-5.pdb
+C:\Users\Igor Octaviano\Desktop\501119-5\501119-5\obj\Debug\501119-5.csprojResolveAssemblyReference.cache
+C:\Users\Igor Octaviano\Desktop\501119-5\501119-5\obj\Debug\501119-5.exe
+C:\Users\Igor Octaviano\Desktop\501119-5\501119-5\obj\Debug\501119-5.pdb
+D:\I.O.R.R-Faculdade\5-Semestry\TÉCNICAS AVANÇADAS DE PROGRAMAÇÃO - 3082.1.00 (Teórica)\Listas\501119-5\501119-5\bin\Debug\501119-5.exe.config
+D:\I.O.R.R-Faculdade\5-Semestry\TÉCNICAS AVANÇADAS DE PROGRAMAÇÃO - 3082.1.00 (Teórica)\Listas\501119-5\501119-5\obj\Debug\501119-5.exe
+D:\I.O.R.R-Faculdade\5-Semestry\TÉCNICAS AVANÇADAS DE PROGRAMAÇÃO - 3082.1.00 (Teórica)\Listas\501119-5\501119-5\obj\Debug\501119-5.pdb
+D:\I.O.R.R-Faculdade\5-Semestry\TÉCNICAS AVANÇADAS DE PROGRAMAÇÃO - 3082.1.00 (Teórica)\Listas\501119-5\501119-5\obj\Debug\501119-5.csprojResolveAssemblyReference.cache
+D:\I.O.R.R-Faculdade\5-Semestry\TÉCNICAS AVANÇADAS DE PROGRAMAÇÃO - 3082.1.00 (Teórica)\Listas\501119-5\501119-5\bin\Debug\501119-5.exe
+D:\I.O.R.R-Faculdade\5-Semestry\TÉCNICAS AVANÇADAS DE PROGRAMAÇÃO - 3082.1.00 (Teórica)\Listas\501119-5\501119-5\bin\Debug\501119-5.pdb
